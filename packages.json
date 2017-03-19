@@ -1,0 +1,14 @@
+{
+  "name": “My Style”,
+  "title": “My Style“,
+  "displayName": “MyStyle”,
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": “My first style“,
+  "license": "GPL-3.0",
+  "engines": {
+    "nylas": "*"
+  },
+  "private": true
+}
+
